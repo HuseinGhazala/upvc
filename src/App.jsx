@@ -359,7 +359,7 @@ const App = () => {
 
       <div className="bg-slate-950 p-4 border-b border-slate-800 text-center shadow-lg relative z-20">
         <h1 className="text-2xl font-bold bg-gradient-to-r from-blue-400 to-teal-400 bg-clip-text text-transparent">
-          المعاينة ثلاثية الأبعاد + المساعد الهندسي الذكي
+          المعاينة ثلاثية الأبعاد
         </h1>
       </div>
 
