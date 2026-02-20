@@ -361,7 +361,6 @@ const App = () => {
         <h1 className="text-2xl font-bold bg-gradient-to-r from-blue-400 to-teal-400 bg-clip-text text-transparent">
           المعاينة ثلاثية الأبعاد + المساعد الهندسي الذكي
         </h1>
-        <p className="text-slate-400 text-sm mt-1">تخيل الشكل بدقة، واحصل على توصيات ومقايسات باستخدام الذكاء الاصطناعي</p>
       </div>
 
       <div className="flex flex-col md:flex-row h-[calc(100vh-80px)]">
